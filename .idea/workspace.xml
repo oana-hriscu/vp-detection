@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af438b16-22e9-4e55-a778-127cb601b5df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vp-detection.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IN/uploaded_image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/IN/uploaded_image.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OUT/uploaded_image_center.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OUT/uploaded_image_center.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OUT/uploaded_image_cropped.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/OUT/uploaded_image_cropped.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Robust_may_13_tuning.py" beforeDir="false" afterPath="$PROJECT_DIR$/Robust_may_13_tuning.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Single_image_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Single_image_test.py" afterDir="false" />
     </list>
@@ -26,37 +25,38 @@
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="jpg" value="17" />
-          <entry key="py" value="15" />
+          <entry key="py" value="16" />
           <entry key="yaml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="17" />
-          <entry key="Python" value="15" />
+          <entry key="Python" value="16" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="py" value="2208" />
+          <entry key="py" value="2521" />
           <entry key="yaml" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="2208" />
+          <entry key="Python" value="2521" />
           <entry key="YAML" value="10" />
         </counts>
       </usages-collector>
@@ -67,8 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Single_image_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="71" selection-start-line="71" selection-end-line="71" />
+            <state relative-caret-position="-407">
+              <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
               <folding>
                 <element signature="e#55#68#0" expanded="true" />
               </folding>
@@ -76,13 +76,21 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IN/uploaded_image.jpg">
-          <provider selected="true" editor-type-id="images" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vp-detection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+                <marker date="1578680533706" expanded="true" signature="39727:39732" ph="..." />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OUT/uploaded_image_center.jpg">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IN/uploaded_image.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -118,7 +126,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Robust_may_13_tuning.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
+            <state relative-caret-position="1275">
               <caret line="82" column="71" selection-start-line="82" selection-start-column="71" selection-end-line="82" selection-end-column="71" />
               <folding>
                 <element signature="e#76#86#0" expanded="true" />
@@ -128,6 +136,13 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -171,10 +186,11 @@
         <option value="$PROJECT_DIR$/Kalman_Filter.py" />
         <option value="$PROJECT_DIR$/Robust_may_13_tuning.py" />
         <option value="$PROJECT_DIR$/Single_image_test.py" />
+        <option value="$PROJECT_DIR$/vp-detection.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1905" />
     <option name="width" value="1950" />
     <option name="height" value="2060" />
@@ -185,7 +201,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,6 +222,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -225,7 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Single_image_test">
+  <component name="RunManager" selected="Python.vp-detection">
     <configuration name="Single_image_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Vanishing Point" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -239,6 +255,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Single_image_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vp-detection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Vanishing Point" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vp-detection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,20 +312,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_matrix.TestMatrix.test_show" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="Vanishing Point" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_matrix.TestMatrix.test_show&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Unittests for test_matrix.TestMatrix.test_transpose" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Vanishing Point" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -305,18 +328,18 @@
     </configuration>
     <list>
       <item itemvalue="Python tests.Unittests for test_matrix.TestMatrix" />
-      <item itemvalue="Python tests.Unittests for test_matrix.TestMatrix.test_show" />
       <item itemvalue="Python tests.Unittests for test_matrix.TestMatrix.test_Cholesky" />
       <item itemvalue="Python.Single_image_test" />
       <item itemvalue="Python tests.Unittests for test_matrix.TestMatrix.test_transpose" />
+      <item itemvalue="Python.vp-detection" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.vp-detection" />
         <item itemvalue="Python.Single_image_test" />
         <item itemvalue="Python tests.Unittests for test_matrix.TestMatrix" />
         <item itemvalue="Python tests.Unittests for test_matrix.TestMatrix.test_Cholesky" />
         <item itemvalue="Python tests.Unittests for test_matrix.TestMatrix.test_transpose" />
-        <item itemvalue="Python tests.Unittests for test_matrix.TestMatrix.test_show" />
       </list>
     </recent_temporary>
   </component>
@@ -367,13 +390,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15125495" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15125495" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -436,6 +460,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/some_image.jpg" />
+    <entry file="file://$PROJECT_DIR$/IN/uploaded_image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUT/uploaded_image_cropped.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Kalman_Filter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -458,7 +488,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Robust_may_13_tuning.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
+        <state relative-caret-position="1275">
           <caret line="82" column="71" selection-start-line="82" selection-start-column="71" selection-end-line="82" selection-end-column="71" />
           <folding>
             <element signature="e#76#86#0" expanded="true" />
@@ -466,24 +496,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OUT/uploaded_image_cropped.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IN/uploaded_image.jpg">
+    <entry file="file://$PROJECT_DIR$/OUT/uploaded_image_center.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Single_image_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        <state relative-caret-position="-407">
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
           <folding>
             <element signature="e#55#68#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OUT/uploaded_image_center.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/vp-detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1578680533706" expanded="true" signature="39727:39732" ph="..." />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
