@@ -1,8 +1,11 @@
 Pillow
 imutils
 numpy
-cv2
+opencv-python
 Flask
 connexion
 Flask-Injector
 fastavro
+base64
+urllib
+time
