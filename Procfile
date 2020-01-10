@@ -1,1 +1,1 @@
-web: gunicorn -w 4 vp-detection:app
+web: gunicorn -b :$PORT vp-detection:app
