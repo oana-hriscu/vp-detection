@@ -6,6 +6,6 @@ Flask
 connexion
 Flask-Injector
 fastavro
-base64
+pybase64
 urllib
 time
