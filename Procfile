@@ -1,1 +1,1 @@
-web: gunicorn vp-detection:app
+web: gunicorn vp-detection:app --log-file=-
