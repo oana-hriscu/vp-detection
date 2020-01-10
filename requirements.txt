@@ -10,7 +10,6 @@ colorama==0.4.0
 connexion==2.4.0
 cv==1.0.0
 cycler==0.10.0
-Django==2.1.3
 fastavro==0.22.7
 fields==5.0.0
 Flask==1.1.1
