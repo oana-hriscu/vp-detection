@@ -7,5 +7,4 @@ connexion
 Flask-Injector
 fastavro
 pybase64
-urllib
-time
+urllib3

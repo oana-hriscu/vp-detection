@@ -6,7 +6,6 @@ import urllib
 import cv2
 from Robust_may_13_tuning import HoughDetect_May_13
 from Kalman_Filter import Matrix
-import time
 import numpy as np
 
 
@@ -46,9 +45,7 @@ def image_VP(b64img):
     count_hough = 0
     t1 = []
     while count_hough < 1:
-        t0 = time.time()
         img_result, VPoint_coord, crop_s, crop_f = HoughDetect_May_13(img, x, P, resolution=res)
-        t1 = time.time() - t0
         count_hough += 1
 
     # print('Processing time = {0:.2f} sec'.format(t1) + '\n')
