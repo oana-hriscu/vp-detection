@@ -1,1 +1,1 @@
-web: gunicorn -b :$PORT vp-detection:app
+web: gunicorn vp-detection:app
