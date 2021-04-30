@@ -53,7 +53,7 @@ six==1.11.0
 typing==3.7.4.1
 typing-extensions==3.7.4.1
 uritemplate==3.0.0
-urllib3==1.25.7
+urllib3==1.25.8
 virtualenv==16.1.0
 virtualenvwrapper-win==1.2.5
 Werkzeug==0.16.0
